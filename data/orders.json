@@ -1,0 +1,20 @@
+[
+    {
+        "order_id": "9C6D2851",
+        "customer_name": "Sanika",
+        "items": [
+            {
+                "item_id": "F001",
+                "quantity": 2
+            }
+        ],
+        "bill": {
+            "subtotal": 160.0,
+            "tax_rate": 0.05,
+            "tax": 8.0,
+            "discount": 0.0,
+            "total": 168.0
+        },
+        "status": "Preparing"
+    }
+]
